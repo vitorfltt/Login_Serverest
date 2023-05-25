@@ -1,0 +1,8 @@
+{
+  "viewportWidth": 1366,
+  "viewportHeight": 768,
+  "defaultCommandTimeout": 10000,
+  "baseUrl": "https://front.serverest.dev/login",
+  "email": "vitor@teste.com",
+  "senha": "flupal"
+}
