@@ -18,4 +18,5 @@ Instale as dependências do projeto com: npm install
 
 ## Executando o projeto:
 Execução Padrão: npm run test:chrome
+
 Execução com o Firefox: npm run test:firefox
